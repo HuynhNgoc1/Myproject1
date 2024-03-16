@@ -1,0 +1,19 @@
+{
+  "name": "coolnodeapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuynhNgoc1/Myproject1.git"
+  },
+  "author": "HuynhNgoc1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuynhNgoc1/Myproject1/issues"
+  },
+  "homepage": "https://github.com/HuynhNgoc1/Myproject1#readme"
+}
